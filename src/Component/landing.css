@@ -1,0 +1,78 @@
+.card-size{
+    max-width: 390px;
+    margin: 20px;
+    padding: 2px;
+}
+.card-logo{
+    background-color: rgb(53, 10, 10);
+    display: flex;
+    width: 90px;
+    height: 75px;
+    position: absolute;
+    left: 10%;
+    bottom: 40%;
+    
+}
+
+.card-logo-image{
+
+    max-width: 89px;
+
+}
+
+.card-body{
+    margin-top: 8%;
+}
+
+.card-tittle{
+    margin-top: 10%;
+}
+
+.explore-btn{
+    display: flex;
+}
+
+/* details page */
+
+.slide-size{
+    max-width: 55%;
+    
+}
+
+.product-logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 8px;
+
+}
+
+.heading{
+    float: left;
+}
+.container-head{
+    margin: auto;
+    padding: 5px;
+}
+
+.btn-apply{
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    width: 90%;
+    margin: 0;
+    padding: 15px;
+    
+    
+}
+
+
+/* Dashboard */
+
+.status{
+    align-items: center;
+    text-align: center;
+}
+
+.yellow{}
+.red{}
+.green{}
